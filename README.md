@@ -1,3 +1,2 @@
-# mini_chat
+# Mini Chat
 Mini chat on Laravel
-## My mini chat on Laravel
